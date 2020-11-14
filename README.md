@@ -7,6 +7,7 @@ Hey, I'm The-Last-Cookie!
 
 **Currently working on:**\
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Last-Cookie&repo=image-tagger&show_owner=true)](https://github.com/The-Last-Cookie/image-tagger)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Last-Cookie&repo=stringcalc&show_owner=true)](https://github.com/The-Last-Cookie/stringcalc)
 
 ## My stats
 [![The-Last-Cookie's Github Stats](https://github-readme-stats.vercel.app/api?username=The-Last-Cookie&show_icons=true&include_all_commits=true)](https://github.com/The-Last-Cookie)
