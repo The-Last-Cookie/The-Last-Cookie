@@ -2,15 +2,16 @@
 
 Hey, I'm The-Last-Cookie!
 
-- Studying cyber security as an undergraduate student in Offenburg (Germany)
-- Loving C++ and other compiled languages like C#, Java is interesting too
+- Cyber security enthusiast
+- Loving compiled languages like C#, Python is useful too
 - Besides computer stuff I also play chess
 - [M57](https://en.wikipedia.org/wiki/Ring_Nebula) is cool
 
 **Currently contributing to:**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ppy&repo=osu-wiki&show_owner=true)](https://github.com/ppy/osu-wiki)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Last-Cookie&repo=stringcalc&show_owner=true)](https://github.com/The-Last-Cookie/stringcalc)
+
+Maybe I will restart my ImageTagger project eventually.
 
 ## My stats
 
